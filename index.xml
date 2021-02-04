@@ -4,19 +4,17 @@
     <title>About on Shane Reilly</title>
     <link>https://shanereilly.github.io/</link>
     <description>Recent content in About on Shane Reilly</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://shanereilly.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shanereilly.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://shanereilly.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shanereilly.github.io/about/</guid>
-      <description>About Me  I&amp;rsquo;m a third year Computer Science major at the University of Cincinnati. I have an interest in reverse engineering, binary exploitation, cryptography and a myriad of other topics.
-Contact Email:reillysp@mail.uc.edu</description>
+      <description>About Me I&amp;rsquo;m a third year computer science major at the University of Cincinnati. I&amp;rsquo;m interested in reverse engineering, binary exploitation, cryptography, electronics, software-defined radio and a myriad of other topics. In my free time I enjoy solving security capture-the-flag challenges, Brazillian jiu-jitsu and playing guitar.
+Skills reverse engineering, ghidra, c, c++, wireshark, electronics, gdb, x86/x86-64, arm, network protocols, python, shell scripting, linux
+Contact  : Cincinnati, OH
+ : reillysp@mail.</description>
     </item>
     
     <item>
@@ -26,8 +24,9 @@ Contact Email:reillysp@mail.uc.edu</description>
       
       <guid>https://shanereilly.github.io/co-op/</guid>
       <description>Co-op Experiences Radiance Technologies January 2020 - May 2020
- Stuff Stuff Stuff  August 2020 - December 2020
- Stuff Stuff Stuff  </description>
+Reverse Engineer Co-op
+ During this co-op rotation, my primary duties consisted of developing Ghidra plugins and other tools to analyze binary complexity. I gained a great deal of familiarity with the Java programming language and delved deep into algorithmic methods of analyzing binaries. I also received a Top Secret security clearance and improved my ability to write technical documentations.
+Skills used:</description>
     </item>
     
     <item>
@@ -36,7 +35,10 @@ Contact Email:reillysp@mail.uc.edu</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shanereilly.github.io/projects/</guid>
-      <description>Projects </description>
+      <description>Projects My personal website.  I post capture-the-flag writeups, and other things I find interesting. I made it using the static-site generator Hugo.
+ In making the site, I learned a great deal about HTML/CSS, JavaScript, FTP, hosting, and may other topics related to web development. In participating in capture-the-flag challenges, I learned about various security topics.  Involvement Boone County Water Rescue July 2020 - June 2020
+Diver
+  Paricipated in rescue operations, recoveries and seaches in the Ohio River and Northern Kentucky waterways.</description>
     </item>
     
     <item>
@@ -45,7 +47,8 @@ Contact Email:reillysp@mail.uc.edu</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shanereilly.github.io/reflection/</guid>
-      <description>Summative Reflection </description>
+      <description>Reflection After serving over five years in the Marine Corps, I was ready to take on new challenges. I was accepted into the University of Cincinnati where I started pursuing a degree in Computer Science. In January 2020, I started my first co-op at Radiance Technologies in Beavercreek, OH. I returned there in September 2020 for my second rotation.
+The co-op program has helped further both my technical and interpersonal skills.</description>
     </item>
     
   </channel>
